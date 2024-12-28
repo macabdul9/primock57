@@ -146,3 +146,4 @@ dmypy.json
 # Local model dirs
 model
 universal-sentence-encoder_4
+outputs/
